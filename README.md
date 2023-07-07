@@ -1,4 +1,6 @@
-### Hi there 👋
+### console.log('Hola Mundo 👋')
+
+💻 Soy desarrollador Frontend dedicado a construir soluciones con tecnologías como: Vue.js, Javascript, TailwindCSS 💻
 
 <!--
 **manuelberganza25/manuelberganza25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
